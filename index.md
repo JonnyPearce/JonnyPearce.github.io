@@ -2,17 +2,17 @@
 
 ---
 
-### Category Name 1 
+### Selected projects 
 
-[Project 1 Title](/sample_page)
+International Men’s Cricket – Predicting the Market Value of Individual Cricketers in the India Premier League(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+Fake News Detector/Classifier(/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Understanding Inequalities in Rare and Less Common Cancers
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
