@@ -12,7 +12,7 @@
 
 <img src="images/Player purchases by team.jpg"/>
 
-([http://example.com/](https://github.com/JonnyPearce/SpringboardCapstone2))
+([https://github.com/JonnyPearce/SpringboardCapstone2])
 
 ---
 Fake News Detector/Classifier(/pdf/sample_presentation.pdf)
