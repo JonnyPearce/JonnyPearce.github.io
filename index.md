@@ -4,7 +4,7 @@
 
 ## Selected projects 
 
-### International Men’s Cricket – Predicting the Market Value of Individual Cricketers in the India Premier League(/sample_page)
+### International Men’s Cricket – Predicting the Market Value of Individual Cricketers in the India Premier League
 
 <img src="images/Batsman all rounder averages by team.jpg"/>
 
