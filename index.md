@@ -1,18 +1,19 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Selected projects 
+## Selected projects 
 
-**International Men’s Cricket – Predicting the Market Value of Individual Cricketers in the India Premier League(/sample_page)
-**
+### International Men’s Cricket – Predicting the Market Value of Individual Cricketers in the India Premier League(/sample_page)
+
 <img src="images/Batsman all rounder averages by team.jpg"/>
 
 <img src="images/Bowler all rounder averages by team.jpg"/>
 
 <img src="images/Player purchases by team.jpg"/>
 
-([https://github.com/JonnyPearce/SpringboardCapstone2])
+<a href="[https://www.linkedin.com/in/pearcejonny/](https://github.com/JonnyPearce/SpringboardCapstone2)">See my Github repository</a> 
+
 
 ---
 Fake News Detector/Classifier(/pdf/sample_presentation.pdf)
