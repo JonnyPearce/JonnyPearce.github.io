@@ -20,7 +20,13 @@
 
 ---
 ### Fake News Detector
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Top non-stopwords in fake news stories.png"/>
+
+<img src="images/Top non-stopwords in true news stories.png"/>
+
+<img src="images/Cionfusion matric for PAC 7 Classifier.jpg"/>
+
+<img src="images/fake stories.jpeg"/>
 
 <a href="https://github.com/JonnyPearce/Fake_News_Detector/blob/main/docs/Capstone%20Final%20Slides%20-%20Fake%20News%20Detector%20-%20Jonny%20Pearce%20-%202%20July%202023.pdf">See slidedeck here</a> 
 
