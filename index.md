@@ -12,7 +12,7 @@
 
 <img src="images/Player purchases by team.jpg"/>
 
-Slidedeck here(/pdf/Capstone Final Slides - Jonny Pearce - 27 April 2023.pdf)
+
 <a href="https://github.com/JonnyPearce/SpringboardCapstone2/blob/main/docs/Capstone%20Final%20Slides%20-%20Jonny%20Pearce%20-%2027%20April%202023.pdf">See slidedeck here</a> 
 
 <a href="https://github.com/JonnyPearce/SpringboardCapstone2">See my Github repository</a> 
