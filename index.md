@@ -30,20 +30,12 @@
 
 <a href="https://github.com/JonnyPearce/Fake_News_Detector/blob/main/docs/Capstone%20Final%20Slides%20-%20Fake%20News%20Detector%20-%20Jonny%20Pearce%20-%202%20July%202023.pdf">See slidedeck here</a> 
 
-<a href="https://github.com/JonnyPearce/Fake_News_Detector">See this Github repository for the full project</a> 
+<a href="https://github.com/JonnyPearce/Fake_News_Detector/tree/main">See this Github repository for the full full project</a>
+
 ---
-Understanding Inequalities in Rare and Less Common Cancers
+### Understanding Inequalities in Rare and Less Common Cancers
+Coming soon
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
