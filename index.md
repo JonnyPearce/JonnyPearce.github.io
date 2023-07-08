@@ -15,13 +15,16 @@
 
 <a href="https://github.com/JonnyPearce/SpringboardCapstone2/blob/main/docs/Capstone%20Final%20Slides%20-%20Jonny%20Pearce%20-%2027%20April%202023.pdf">See slidedeck here</a> 
 
-<a href="https://github.com/JonnyPearce/SpringboardCapstone2">See my Github repository</a> 
+<a href="https://github.com/JonnyPearce/SpringboardCapstone2">See this Github repositorry for the full project</a> 
 
 
 ---
-Fake News Detector/Classifier(/pdf/sample_presentation.pdf)
+### Fake News Detector
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+<a href="https://github.com/JonnyPearce/Fake_News_Detector/blob/main/docs/Capstone%20Final%20Slides%20-%20Fake%20News%20Detector%20-%20Jonny%20Pearce%20-%202%20July%202023.pdf">See slidedeck here</a> 
+
+<a href="https://github.com/JonnyPearce/Fake_News_Detector">See this Github repository for the full project</a> 
 ---
 Understanding Inequalities in Rare and Less Common Cancers
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
