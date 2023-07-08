@@ -12,7 +12,7 @@
 
 <img src="images/Player purchases by team.jpg"/>
 
-<a href="[https://www.linkedin.com/in/pearcejonny/](https://github.com/JonnyPearce/SpringboardCapstone2)">See my Github repository</a> 
+<a href="[(https://github.com/JonnyPearce/SpringboardCapstone2)]">See my Github repository</a> 
 
 
 ---
